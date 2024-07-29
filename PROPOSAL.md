@@ -4,7 +4,7 @@ News API: https://newsapi.org
 
 Provides articles relating to specific topics other various filters. Iterating through various filters, the data could then be transfered to a database. The resulting database could then be used to train some cool models.
 
-See --'proposal_img1'-- for visualization of API in use.  
+See --*proposal_img1*-- for visualization of API in use.  
 
 To use, 
 - first install and connect to any relevant database systems needed.   
