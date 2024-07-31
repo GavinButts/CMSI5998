@@ -2,24 +2,24 @@
 
 #### Submissions:   
 crawl.py  
-↑   submitted Jul 26   
+**↑**   submitted Jul 26   
     
 Proposal.md    
-↑   submitted Jul 28
+**↑**   submitted Jul 28
     
    
     
 #### Final submissions:   
 buildDatabase.py    
-↑   submitted Jul 31    
+**↑**   submitted Jul 31    
     
 cs_terms.txt    
-↑   submitted Jul 31   
+**↑**   submitted Jul 31   
      
 run_NewsLlama.sh    
-↑   submitted Jul 31   
+**↑**   submitted Jul 31   
      
 TerminalView.png   
-↑   submitted Jul 31   
+**↑**   submitted Jul 31   
      
  
