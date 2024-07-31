@@ -1,7 +1,7 @@
 # CMSI5998
 
 #### Submissions:   
-crawl.py &larr submitted Jul 26   
+crawl.py $&larr$ submitted Jul 26   
 Proposal.md &larr submitted Jul 28
 
 #### Final submissions:   
