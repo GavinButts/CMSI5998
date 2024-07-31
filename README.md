@@ -21,5 +21,7 @@ run_NewsLlama.sh
      
 TerminalView.png   
 **↑**   submitted Jul 31   
-     
+
+NewsLlama.py    
+**↑**   submitted Jul 31   
  
