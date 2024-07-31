@@ -1,6 +1,6 @@
 # CMSI5998
 
-#### Submissions:   
+## Submissions:   
 crawl.py  
 **↑**   submitted Jul 26   
     
@@ -11,7 +11,7 @@ Proposal.md
 &nbsp;
 
 
-#### Final submissions:   
+## Final submissions:   
 buildDatabase.py    
 **↑**   submitted Jul 31    
     
