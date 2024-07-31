@@ -8,8 +8,7 @@ Proposal.md
 **↑**   submitted Jul 28
 
 \
-\
-\
+\  
 
 #### Final submissions:   
 buildDatabase.py    
