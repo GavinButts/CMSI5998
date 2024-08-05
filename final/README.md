@@ -59,7 +59,7 @@ python interface.py
 
 #### NewsLlama
 
-> This folder contains the tokenizer, models weights
+> This folder contains the tokenizer, models weights, and all other important contents. Due to the file size, large portions are uploaded to google drive. Please find ***README.md*** inside the folder.
 
 
 
