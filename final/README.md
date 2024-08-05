@@ -48,6 +48,18 @@ python NewsLlama.py
 \
 &nbsp;
 
+#### interface.py
+
+> This file provides an external interface for prompting and running the NewsLlama model. This script must be placed in the same directory as NewsLlama.  
+ 
+***TO RUN***  
+```
+python interface.py  
+```
+
+#### NewsLlama
+
+> This folder contains the tokenizer, models weights
 
 
 
