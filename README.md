@@ -35,4 +35,6 @@ TerminalView.png
 NewsLlama.py    
 **↑**   submitted Jul 31   
 > In this script, we collect the data in the MongoDB database and finetune TinyLlama-- a parameter reduced Llama 2 model.  
- 
+
+Everything else
+**↑**   submitted Aug 5   
