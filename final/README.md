@@ -9,6 +9,11 @@ In this folder, we provide the pipeline for data filtering, data accumulation, d
 
 To run the core components of this project, find run_NewsLlama.sh. To run only the model interface, find *interface.py* in *File Descriptions*. For any questions, contact at gbutts@lion.lmu.edu
 
+\
+&nbsp;
+\
+&nbsp;
+
 ## File Descriptions  
 
 #### BuildDatabase.py
