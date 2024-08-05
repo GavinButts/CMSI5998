@@ -5,12 +5,15 @@ In this folder, we provide the pipeline for data filtering, data accumulation, d
 &nbsp;
 \
 &nbsp;
+## Run Project
+
+To run the core components of this project, find run_NewsLlama.sh. To run only the model interface, find *interface.py* in *File Descriptions*. For any questions, contact at gbutts@lion.lmu.edu
 
 ## File Descriptions  
 
 #### BuildDatabase.py
 
-> This file establishes a connection to MongoDB database, scrapes NewsAPI for key-words listed in ***cs_terms.txt***, and puts the data into database.
+> This file establishes a connection to MongoDB database, scrapes NewsAPI for key-words listed in ***cs_terms.txt***, and puts the data into database. To see what the terminal looks like during this process, find TerminalView.png
 
 ***TO RUN***
 ```
@@ -50,7 +53,7 @@ python NewsLlama.py
 
 #### interface.py
 
-> This file provides an external interface for prompting and running the NewsLlama model. This script must be placed in the same directory as NewsLlama.  
+> This file provides an external interface for prompting and running the NewsLlama model. This script must be placed in the same directory as NewsLlama. To see what it looks like, find InterfaceView.png
  
 ***TO RUN***  
 ```
@@ -63,6 +66,21 @@ python interface.py
 #### NewsLlama
 
 > This folder contains the tokenizer, models weights, and all other important contents. Due to the file size, large portions are uploaded to google drive. Please find ***README.md*** inside the folder.
+
+\
+&nbsp;
+
+#### dataViz.py
+
+> This script collects the data in the database and uses LDA to determine the most common news article topics in the database. This visualization turned out great! You can find it in LDAViz.png
+
+***TO RUN***  
+```
+export MONGODB_URI=0 #set MongoDB URI here
+
+python interface.py  
+```
+
 
 
 
